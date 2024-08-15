@@ -24,7 +24,7 @@ export const test = [
 
 const MyComponent = () => {
   return (
-    <ReactDateAcvitityDisplay dateValues={test} />
+    <ReactDateActivityDisplay dateValues={test} />
   ) 
 }
 ```
